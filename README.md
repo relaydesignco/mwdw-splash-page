@@ -1,11 +1,5 @@
 # Nuxt Netlify Splash Page
 
-### Deploy this Template
-
-Click the "Deploy to Netlify" button, and you can configure it to fit your needs.
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/relaydesignco/mwdw-splash-page)
-
 ## Build Setup
 
 ```bash
