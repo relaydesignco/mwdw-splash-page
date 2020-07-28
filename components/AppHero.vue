@@ -23,7 +23,7 @@
       <div class="w-32">
         <svg-logo />
       </div>
-      <img src="/MWDW2020.svg" alt="#MWDW2020" class="mt-10 md:mt-0" />
+      <img src="/MWDW2020.svg" alt="#MWDW2020" class="mt-10 md:mt-0 w-64" />
     </div>
   </header>
 </template>
