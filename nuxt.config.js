@@ -35,11 +35,11 @@ export default {
         name: 'og:url',
         content: 'https://midwestdesignweek.com',
       },
-      // {
-      //   hid: 'og:image',
-      //   name: 'og:image',
-      //   content: 'https://midwestdesignweek.com/og-image.jpg',
-      // },
+      {
+        hid: 'og:image',
+        name: 'og:image',
+        content: 'https://midwestdesignweek.com/og-image.jpg',
+      },
       {
         hid: 'og:description',
         name: 'og:description',
