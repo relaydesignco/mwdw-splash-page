@@ -13,7 +13,7 @@
       >
     </div>
 
-    <div class="flex justify-around items-center md:w-3/4 flex-wrap mx-auto">
+    <div class="flex justify-around items-center md:w-3/4 lg:w-7/12 flex-wrap mx-auto">
       <ul class="uppercase text-lg tracking-wider font-semibold">
         <li>Louisville</li>
         <li>Cincinnati</li>

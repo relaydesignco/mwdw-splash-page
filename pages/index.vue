@@ -1,8 +1,10 @@
 <template>
   <div>
     <app-hero></app-hero>
-    <main class="px-4 md:px-12 pt-24 pb-16 max-w-screen-lg mx-auto md:grid grid-cols-2 gap-16">
-      <div class="">
+    <main
+      class="px-4 md:px-12 lg:px-0 pt-24 pb-16 max-w-screen-lg mx-auto md:grid grid-cols-2 gap-16"
+    >
+      <div>
         <h2 class="text-3xl mb-1 uppercase font-semibold">New This Year</h2>
         <p class="text-xl mb-8">
           Our world is shaped by <strong>culture</strong> in its many forms: customary beliefs,
@@ -18,7 +20,7 @@
           September 21 - 25, 2020
         </h2>
       </div>
-      <div class="">
+      <div>
         <h2 class="text-3xl mb-4 uppercase font-semibold mt-8 md:mt-0">Stay In Touch</h2>
         <email-form
           form-action="https://aiga.us3.list-manage.com/subscribe/post"
