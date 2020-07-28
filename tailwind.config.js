@@ -10,10 +10,17 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        sans: ['Open Sans', ...defaultTheme.fontFamily.sans],
+        sans: ['Source Sans Pro', ...defaultTheme.fontFamily.sans],
       },
       colors: {
-        black: '#030703',
+        black: '#3a3a3c',
+        green: '#8fc73e',
+        teal: '#4dc1b5',
+        blue: '#5d9bcc',
+        red: '#cb1d1f',
+      },
+      letterSpacing: {
+        widest: '0.5em',
       },
     },
   },

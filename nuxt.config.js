@@ -63,7 +63,7 @@ export default {
     //   id: 'xxxxxx', // for Adobe Typekit fonts
     // },
     google: {
-      families: ['Open Sans:400,700'], // Google Font with weights 400 and 700
+      families: ['Source Sans Pro:300,400,600,700'], // Google Font with weights 400 and 700
     },
   },
 

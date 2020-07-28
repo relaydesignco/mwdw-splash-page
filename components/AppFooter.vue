@@ -1,6 +1,6 @@
 <template>
-  <footer class="bg-gray-400">
-    <div class="p-4 max-w-screen-xl mx-auto text-xs">
+  <footer class="bg-black">
+    <div class="p-4 max-w-screen-xl mx-auto text-sm text-white">
       <p>© {{ year }} AIGA Midwest Design Week</p>
     </div>
   </footer>

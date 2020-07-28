@@ -1,5 +1,5 @@
 <template>
-  <div class="md:w-2/3 mx-auto">
+  <div class="">
     <form :action="mcAction" method="POST" class="">
       <input type="hidden" name="u" :value="mcU" />
       <input type="hidden" name="id" :value="mcId" />
@@ -36,7 +36,7 @@
 
       <input
         type="submit"
-        class="formEmailButton bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline md:w-1/3"
+        class="formEmailButton bg-blue hover:opacity-75 text-white font-bold py-2 px-4 focus:outline-none focus:shadow-outline md:w-1/3 uppercase tracking-wider"
         name="submit"
         value="Subscribe"
       />
