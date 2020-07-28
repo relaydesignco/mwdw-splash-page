@@ -2,7 +2,7 @@
   <div>
     <app-hero></app-hero>
     <main
-      class="px-4 md:px-12 lg:px-0 pt-24 pb-16 max-w-screen-lg mx-auto md:grid grid-cols-2 gap-16"
+      class="px-4 md:px-12 lg:px-0 pt-24 pb-16 md:pb-32 max-w-screen-lg mx-auto md:grid grid-cols-2 gap-16"
     >
       <div>
         <h2 class="text-3xl mb-1 uppercase font-semibold">New This Year</h2>
