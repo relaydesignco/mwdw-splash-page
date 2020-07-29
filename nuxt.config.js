@@ -38,7 +38,7 @@ export default {
       {
         hid: 'og:image',
         name: 'og:image',
-        content: 'https://midwestdesignweek.com/og-image.jpg',
+        content: 'https://midwestdesignweek.com/og-image.png',
       },
       {
         hid: 'og:description',
