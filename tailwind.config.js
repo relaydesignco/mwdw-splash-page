@@ -19,6 +19,7 @@ module.exports = {
         teal: '#4dc1b5',
         blue: '#5d9bcc',
         red: '#cb1d1f',
+        offwhite: '#fbfaf7',
       },
       letterSpacing: {
         wide: '0.1em',

@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="bg-offwhite">
     <nuxt />
     <app-footer />
   </div>
