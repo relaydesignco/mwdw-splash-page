@@ -11,6 +11,7 @@ module.exports = {
     extend: {
       fontFamily: {
         sans: ['Source Sans Pro', ...defaultTheme.fontFamily.sans],
+        mono: ['Lekton', ...defaultTheme.fontFamily.mono],
       },
       colors: {
         black: '#3a3a3c',
@@ -20,6 +21,8 @@ module.exports = {
         red: '#cb1d1f',
       },
       letterSpacing: {
+        wide: '0.1em',
+        wider: '0.2em',
         widest: '0.5em',
       },
     },

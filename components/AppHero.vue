@@ -7,11 +7,11 @@
     <h1 class="text-xl md:text-3xl lg:text-4xl uppercase leading-tight tracking-widest mt-4 mb-4">
       A Virtual Design Conference_
     </h1>
-    <time class="text-3xl lg:text-5xl font-semibold tracking-wider block mb-8 md:mb-20">
+    <time class="text-3xl lg:text-5xl font-mono font-bold tracking-wide block mb-8 md:mb-20">
       09/21 - 25/2020
     </time>
     <div class="flex justify-around items-center md:w-3/4 lg:w-7/12 flex-wrap mx-auto md:mb-12">
-      <ul class="uppercase text-lg md:text-xl tracking-wider font-semibold">
+      <ul class="uppercase text-lg md:text-xl tracking-wider font-bold text-right font-mono">
         <li>Louisville</li>
         <li>Cincinnati</li>
         <li>Toledo</li>
