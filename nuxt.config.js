@@ -21,6 +21,11 @@ export default {
           'Virtual Design Week featuring Louisville, Cincinnati, Indiananpolis, and Toledo AIGA Chapters.',
       },
       {
+        hid: 'twitter:image',
+        name: 'twitter:image',
+        content: 'https://midwestdesignweek.com/og-image.jpg',
+      },
+      {
         hid: 'og:title',
         name: 'og:title',
         content: 'Midwest Design Week',
@@ -38,7 +43,7 @@ export default {
       {
         hid: 'og:image',
         name: 'og:image',
-        content: 'https://midwestdesignweek.com/og-image.png',
+        content: 'https://midwestdesignweek.com/og-image.jpg',
       },
       {
         hid: 'og:description',
