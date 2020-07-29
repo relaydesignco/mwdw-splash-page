@@ -14,7 +14,9 @@
           <strong>Louisville, Cincinnati, Toledo, and Indianapolis</strong>
           celebrate the many colorful voices of our communities.
         </p>
-        <h2 class="text-3xl mb-8 md:mb-0 uppercase font-bold leading-tight font-sans">
+        <h2
+          class="text-3xl mb-8 md:mb-0 uppercase font-bold leading-tight tracking-normal font-sans"
+        >
           Save the Date
           <br />
           September 21 - 25, 2020
