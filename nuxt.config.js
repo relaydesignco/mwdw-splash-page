@@ -17,8 +17,7 @@ export default {
       {
         hid: 'twitter:card',
         name: 'twitter:card',
-        value:
-          'Virtual Design Week featuring Louisville, Cincinnati, Indiananpolis, and Toledo AIGA Chapters.',
+        content: 'summary_large_image',
       },
       {
         hid: 'twitter:image',
