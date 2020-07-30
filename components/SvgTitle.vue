@@ -1,7 +1,7 @@
 <template>
   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1144.63 300">
     <title lang="en">Midwest Design Week</title>
-    <g id="MidwestDesignWeek" fill="#3a3a3c">
+    <g id="MidwestDesignWeek" fill="#3f3e3f">
       <g id="week">
         <path d="M694.63,243.75v-75H675.88v112.5h18.75Z" />
         <path d="M694.63,281.25V300h37.5V281.25Z" />

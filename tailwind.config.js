@@ -14,7 +14,7 @@ module.exports = {
         mono: ['Lekton', ...defaultTheme.fontFamily.mono],
       },
       colors: {
-        black: '#3a3a3c',
+        black: '#3f3e3f',
         green: '#8fc73e',
         teal: '#4dc1b5',
         blue: '#5d9bcc',

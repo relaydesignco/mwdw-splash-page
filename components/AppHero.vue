@@ -16,10 +16,10 @@
     </div>
     <div class="flex justify-around items-center md:w-3/4 lg:w-7/12 flex-wrap mx-auto md:mb-12">
       <ul class="uppercase text-lg md:text-xl tracking-wider font-bold text-right font-mono">
-        <li>Louisville</li>
         <li>Cincinnati</li>
-        <li>Toledo</li>
         <li>Indianapolis</li>
+        <li>Louisville</li>
+        <li>Toledo</li>
       </ul>
       <div class="w-32 md:w-48">
         <svg-logo />

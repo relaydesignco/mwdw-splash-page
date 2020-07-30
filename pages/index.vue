@@ -11,7 +11,7 @@
           shared values, learned behavior, and traditions, to name a few. The
           <strong>diversity</strong> of experience and culture is what makes each person unique,
           which is why for our first ever virtual Design Week, we, the AIGA chapters from
-          <strong>Louisville, Cincinnati, Toledo, and Indianapolis</strong>
+          <strong>Cincinnati, Indianapolis, Louisville, and Toledo</strong>
           celebrate the many colorful voices of our communities.
         </p>
         <h2
