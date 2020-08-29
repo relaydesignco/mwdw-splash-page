@@ -1,9 +1,7 @@
 <template>
   <div>
     <app-hero></app-hero>
-    <main
-      class="px-4 md:px-12 lg:px-0 pt-12 pb-16 md:pb-32 max-w-screen-lg mx-auto md:grid grid-cols-2 gap-16"
-    >
+    <main class="px-4 md:px-12 lg:px-0 pt-12 max-w-screen-lg mx-auto md:grid grid-cols-2 gap-16">
       <div>
         <h2 class="text-3xl mb-1 uppercase font-bold">New This Year</h2>
         <p class="text-xl mb-12">
@@ -31,6 +29,22 @@
         />
       </div>
     </main>
+    <div class="px-4 md:px-12 lg:px-0 pt-12 pb-16 md:pb-32 max-w-screen-lg mx-auto">
+      <h2 class="text-3xl mb-1 uppercase font-bold leading-tight">
+        Interested in Sponsoring the Event?
+      </h2>
+      <p class="text-xl">
+        Check out this year's sponsorhip packet for more information on
+        <a
+          href="/MWDW_2020_Sponsorship.pdf"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="font-bold"
+        >
+          Sponsorship Opporunities.
+        </a>
+      </p>
+    </div>
   </div>
 </template>
 
