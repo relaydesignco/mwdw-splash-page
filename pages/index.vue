@@ -41,7 +41,7 @@
           rel="noopener noreferrer"
           class="font-bold"
         >
-          Sponsorship Opporunities.
+          Sponsorship Opportunities.
         </a>
       </p>
     </div>
